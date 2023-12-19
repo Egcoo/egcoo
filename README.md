@@ -7,7 +7,7 @@
 <div align="left">
 
 [![Jike Badge](https://img.shields.io/badge/_Jike_-Egcoo__-%23ffe411?style=flat&logo=jike)](https://jike.city/focus)
-[![Static Badge](https://img.shields.io/badge/Pub--Account-%E8%BD%BB%E5%BA%A6%E5%A4%B1%E6%95%88-%230c9d46?style=flat&logo=wechat&logoColor=%23fff)](https://t.me/huhexian)
+[![Static Badge](https://img.shields.io/badge/Pub--Account-%E8%BD%BB%E5%BA%A6%E5%A4%B1%E6%95%88-%230c9d46?style=flat&logo=wechat&logoColor=%23fff)](#)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-fsjmissyou@gmail.com-blue?style=flat&labelColor=555&logo=gmail&link=mailto:fsjmissyou@gmail.com&logoColor=fff)](mailto:fsjmissyou@gmail.com)
 </div> 
 
