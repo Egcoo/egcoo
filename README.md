@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Egcoo</h1>
 
 > Simple rules produce complex behavior. Complex rules produce stupid behavior.
-<h3 align="left">A university student, Frontend developer.</h3>
+<h3 align="left">Bachelor's in Computer Science; currently pursuing a graduate degree in Marine Science.</h3>
 <h4 align="left">blogger, podcast, music, tennis, English Films, Stand-up Comedy lover</h4>
 
 <div align="left">
